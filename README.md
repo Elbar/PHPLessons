@@ -10,5 +10,4 @@
 
 
 3) Retrieve data where surname = Usonov
-![studentlist5](https://cloud.githubusercontent.com/assets/10593442/21061903/78f91d06-be5f-11e6-8866-d72647ab55a1.png)
-
+![studentlist5](https://cloud.githubusercontent.com/assets/10593442/21061966/b14d014a-be5f-11e6-8a63-410087bd0349.png)
